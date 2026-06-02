@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Boot Handcraft Afghanistan
 
 A production-ready modern e-commerce platform for authentic Afghan handcrafted boots and leather goods.
@@ -222,3 +223,7 @@ Open [http://localhost:5173](http://localhost:5173)
 ## License
 
 MIT
+=======
+# web-technologies-final-project
+Final Web Technologies Course Project – A Full-Stack E-Commerce Website for Afghan Handcraft Products using React, Express.js, MongoDB, and REST APIs.
+>>>>>>> 062697b336c3a6009fe3bb19b16329d616d5b437
